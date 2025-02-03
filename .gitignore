@@ -146,18 +146,6 @@ query/
 # Dataset
 data/
 
-# Results
-experiment.json
-
-# TXT
-*.txt
-
-# openai api key
-openai.key
-
 # paper
 paper/
-
-# juypiter notebook
-test.ipynb
 
