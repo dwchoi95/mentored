@@ -1,9 +1,6 @@
 from tqdm import tqdm
 from functools import cache
 from scipy.spatial.distance import hamming
-import time
-import openai
-openai.api_key = open('openai.key').read().strip()
 
 from ..utils import Log, Database, Randoms
 from ..execution import Tester, UnitTestStatus
@@ -74,6 +71,9 @@ class PYDEX:
                  corrects:dict={},
                  model:str="gpt-3.5-turbo", 
                  temperature:float=0.8):
+        import openai
+        openai.api_key = open('openai.key').read().strip()
+        
         self.wrongs = self.__preproc(wrongs)
         self.corrects = self.__preproc(corrects)
         self.model = model

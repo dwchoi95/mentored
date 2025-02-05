@@ -149,3 +149,8 @@ data/
 # paper
 paper/
 
+# tests
+test.ipynb
+
+# openai.key
+openai.key
