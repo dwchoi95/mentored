@@ -137,17 +137,11 @@ Z.~Li, S.~Wu, Y.~Liu, J.~Shen, Y.~Wu, Z.~Zhang, and X.~Chen, ``Vsusfl: Variable-
 \bibitem{eiben2015introduction}
 A.~E. Eiben and J.~E. Smith, \emph{Introduction to evolutionary computing}.\hskip 1em plus 0.5em minus 0.4em\relax Springer, 2015.
 
-\bibitem{codeforcesCodeforces}
-CodeForces, ``{C}odeforces --- codeforces.com,'' \url{https://codeforces.com}.
-
 \bibitem{ExperimentTask}
 H.~L. Leping~Li, K.~L, and R.~S. Yanjie~J, ``Dastaset of {A}ssignment{M}ender,'' \url{https://github.com/CoPaGe/FeedbackExperimentTask}, 2022.
 
 \bibitem{brown2020language}
-T.~B. Brown, ``Language models are few-shot learners,'' \emph{arXiv preprint arXiv:2005.14165}, 2020.
-
-\bibitem{pylintPylintCode}
-Logilab, ``{P}ylint - code analysis for {P}ython | www.pylint.org --- pylint.org,'' \url{https://www.pylint.org}.
+T.~Brown, B.~Mann, N.~Ryder, M.~Subbiah, J.~D. Kaplan, P.~Dhariwal, A.~Neelakantan, P.~Shyam, G.~Sastry, A.~Askell \emph{et~al.}, ``Language models are few-shot learners,'' \emph{Advances in neural information processing systems}, vol.~33, pp. 1877--1901, 2020.
 
 \bibitem{siddiq2024quality}
 M.~L. Siddiq, L.~Roney, J.~Zhang, and J.~C. D.~S. Santos, ``Quality assessment of chatgpt generated code and their use by developers,'' in \emph{Proceedings of the 21st International Conference on Mining Software Repositories}, 2024, pp. 152--156.

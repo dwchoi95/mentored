@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.1.8)  5 FEB 2025 21:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.1.8)  11 FEB 2025 03:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -879,43 +879,102 @@ Package caption Info: End \AtBeginDocument code.
 
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 158.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 152.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 158.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 152.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2] [3]
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 367.
+) [2]
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 187.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-<NSGA3.png, id=202, 462.528pt x 462.528pt>
-File: NSGA3.png Graphic file (type png)
-<use NSGA3.png>
-Package pdftex.def Info: NSGA3.png  used on input line 396.
-(pdftex.def)             Requested size: 201.60077pt x 201.60033pt.
- [4] [5 <./NSGA3.png>]
-<repair.png, id=271, 471.7625pt x 542.025pt>
-File: repair.png Graphic file (type png)
-<use repair.png>
-Package pdftex.def Info: repair.png  used on input line 470.
-(pdftex.def)             Requested size: 188.70164pt x 216.80615pt.
- [6 <./repair.png>]
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 490.
- (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-) [7] [8]
+Underfull \hbox (badness 7186) in paragraph at lines 190--191
+\OT1/ptm/m/n/10 with-out cor-rect pro-grams through mutation-based and
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 190--191
+\OT1/ptm/m/n/10 through sim-ple edi-tions such as \OT1/ptm/m/it/10 Op-er-a-tor Re-place-ment\OT1/ptm/m/n/10 ,
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9]
-<quality.png, id=350, 495.7722pt x 258.0039pt>
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 259.
+ (./wrong.m) (./refer_1.m) (./refer_2.m)
+Overfull \hbox (30.84283pt too wide) in paragraph at lines 247--289
+ [][] 
+ []
+
+(./modifications_1.m) (./modifications_2.m)
+Overfull \hbox (24.0pt too wide) in paragraph at lines 291--320
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+<NSGA3.png, id=291, 462.528pt x 462.528pt>
+File: NSGA3.png Graphic file (type png)
+<use NSGA3.png>
+Package pdftex.def Info: NSGA3.png  used on input line 389.
+(pdftex.def)             Requested size: 185.0079pt x 185.0079pt.
+ [5 <./NSGA3.png>]
+<repair.png, id=341, 471.7625pt x 542.025pt>
+File: repair.png Graphic file (type png)
+<use repair.png>
+Package pdftex.def Info: repair.png  used on input line 442.
+(pdftex.def)             Requested size: 188.70164pt x 216.80615pt.
+ [6 <./repair.png>]
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 463.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [7]
+
+LaTeX Font Warning: Font shape `OT1/ptm/m/scit' undefined
+(Font)              using `OT1/ptm/m/sc' instead on input line 643.
+
+[8
+pdfTeX warning (ext4): destination with the same identifier (name{equation.5.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.647 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{equation.5.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.647 
+      ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/m/scit' undefined
+(Font)              using `OT1/ptm/m/sc' instead on input line 665.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/m/scit' undefined
+(Font)              using `OT1/ptm/m/sc' instead on input line 701.
+
+<quality.png, id=395, 495.7722pt x 258.0039pt>
 File: quality.png Graphic file (type png)
 <use quality.png>
-Package pdftex.def Info: quality.png  used on input line 730.
+Package pdftex.def Info: quality.png  used on input line 705.
 (pdftex.def)             Requested size: 252.0pt x 131.14325pt.
- (./main.bbl [10 <./quality.png>] [11])
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9] (./main.bbl [10 <./quality.png>] [11])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -935,21 +994,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B2751EEB2E4A3116DA2F46DD50D8BFAF;4206.
+(rerunfilecheck)             Checksum: F145BCE6F0680A4816F1DA00307332C0;4277.
  ) 
 Here is how much of TeX's memory you used:
- 27134 strings out of 474222
- 495760 string characters out of 5748734
- 1969975 words of memory out of 5000000
- 48771 multiletter control sequences out of 15000+600000
- 601524 words of font info for 119 fonts, out of 8000000 for 9000
+ 27698 strings out of 474222
+ 501425 string characters out of 5748734
+ 2114975 words of memory out of 5000000
+ 49256 multiletter control sequences out of 15000+600000
+ 609374 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 101i,18n,107p,3130b,613s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (12 pages, 570658 bytes).
+ 101i,18n,107p,3067b,1776s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (12 pages, 586698 bytes).
 PDF statistics:
- 496 PDF objects out of 1000 (max. 8388607)
- 433 compressed objects within 5 object streams
- 139 named destinations out of 1000 (max. 500000)
+ 569 PDF objects out of 1000 (max. 8388607)
+ 503 compressed objects within 6 object streams
+ 190 named destinations out of 1000 (max. 500000)
  236 words of extra memory for PDF output out of 10000 (max. 10000000)
 
